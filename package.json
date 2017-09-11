@@ -1,0 +1,22 @@
+{
+  "name": "webpack-encode-plugin",
+  "version": "0.0.1",
+  "description": "a plugin of webpack to encode in package process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricosmall/webpack-encode-plugin.git"
+  },
+  "keywords": [
+    "encode"
+  ],
+  "author": "ricosmall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricosmall/webpack-encode-plugin/issues"
+  },
+  "homepage": "https://github.com/ricosmall/webpack-encode-plugin#readme"
+}
