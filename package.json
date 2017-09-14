@@ -1,7 +1,7 @@
 {
   "name": "webpack-encode-plugin",
-  "version": "0.0.1",
-  "description": "a plugin of webpack to encode in package process.",
+  "version": "0.0.2",
+  "description": "a plugin of webpack to change encoding of your source code in package process.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
