@@ -1,6 +1,6 @@
 # Webpack Encode Plugin
 
-A useful plugin to encode your file to another Content-type from the one of your source code.
+A useful plugin to encode your file to another encoding from the one of your source code.
 
 ## Usage
 
